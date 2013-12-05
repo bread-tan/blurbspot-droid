@@ -34,7 +34,7 @@ public class Blurbspot extends Activity {
 			public void onClick(View arg0) {
 				// TODO Auto-generated method stub
 				buttonBlurb.setVisibility(View.GONE);
-				viewBlurb.loadUrl("192.168.43.219/Blurbspot/");
+				viewBlurb.loadUrl("http://www.example.com");
 				
 			}
 		});
